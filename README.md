@@ -2,9 +2,11 @@
 A supplemental table for the GISAID EPI_SET_230403zh, EPI_SET_230416ub, and EPI_SET_230417ud datasets used in the following studies.
 
 Published manuscript
+
   Daichi Yamasoba, Keiya Uriu, Arnon Plianchaisuk, Yusuke Kosugi, Lin Pan, Jiri Zahradnik, The Genotype to Phenotype Japan (G2P-Japan) Consortium, Jumpei Ito, and Kei Sato. 2023. Virological characteristics of the SARS-CoV-2 Omicron XBB.1.16 variant. Lancet Infectious Diseases. doi: 10.1016/S1473-3099(23)00278-5
 
 Original manuscript (bioRxiv)
+
   Daichi Yamasoba, Keiya Uriu, Arnon Plianchaisuk, Yusuke Kosugi, Lin Pan, Jiri Zahradnik, The Genotype to Phenotype Japan (G2P-Japan) Consortium, Jumpei Ito, and Kei Sato. 2023. Virological characteristics of the SARS-CoV-2 Omicron XBB.1.16 variant. bioRxiv. doi: 10.1101/2023.04.06.535883
 
 
