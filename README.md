@@ -1,5 +1,5 @@
 # XBB.1.16_short
-A supplemental table for the GISAID datasets used in the following studies.
+Supplemental tables for the GISAID datasets used in the following studies.
 
 Yamasoba et al. 2023. Virological characteristics of the SARS-CoV-2 Omicron XBB.1.16 variant. *Lancet Infectious Diseases*. doi: 10.1016/S1473-3099(23)00278-5\
 Yamasoba et al. 2023. Virological characteristics of the SARS-CoV-2 Omicron XBB.1.16 variant. *bioRxiv*. doi: 10.1101/2023.04.06.535883
