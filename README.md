@@ -1,5 +1,5 @@
 # Virological characteristics of the SARS-CoV-2 Omicron XBB.1.16 variant
-The supplemental tables for the GISAID datasets used in the following studies.
+The supplemental tables for the GISAID datasets used in the following studies
 
 Daichi Yamasoba*, Keiya Uriu*, Arnon Plianchaisuk*, Yusuke Kosugi*, Lin Pan*, Jiri Zahradnik, The Genotype to Phenotype Japan (G2P-Japan) Consortium, Jumpei Ito, and Kei Sato†. 2023. Virological characteristics of the SARS-CoV-2 Omicron XBB.1.16 variant. *Lancet Infectious Diseases*. doi: 10.1016/S1473-3099(23)00278-5
 
